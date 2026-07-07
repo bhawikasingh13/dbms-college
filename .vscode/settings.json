@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "window.title": "DBMS College",
+  "files.associations": {
+    ".sql": "sql",
+    ".ddl": "sql",
+    ".dml": "sql"
+  },
+  "extensions.ignoreRecommendations": false,
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "sqltools.connections": []
+}
